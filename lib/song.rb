@@ -1,15 +1,16 @@
 class Song
-  attr_accessor = (name, artist, genre)
 
   def .count
+    @@count = 0
   end
 
-  @@count = 0
+  @@genres = []
 
-   def.genre
+   def self.genres
+     @@genres.uniq
    end
 
-  @@genre = []
+
 
   @@artists
 
