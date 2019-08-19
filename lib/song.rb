@@ -3,4 +3,10 @@ class Song
 
   @@count = 0
 
+  @@genre = []
+
+  def .artist_count
+
+  end
+
 end
