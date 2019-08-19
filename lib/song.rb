@@ -1,4 +1,4 @@
 class Song
-  attr_accessor = (xname, artist, genre)
+  attr_accessor = (name, artist, genre)
 
 end
